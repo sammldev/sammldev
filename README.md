@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working at **a major corporation doing DS/MLOps work**
 
-- 🌱 I’m currently learning **more Docker/Kubernates use cases within CI/CD, as well as Web Development using Node.js, Go, and React.**
+- 🌱 I’m currently learning **more Docker/Kubernates use cases within CI/CD, as well as Rust.**
 
 - 💬 Ask me about **Data Science/Machine Learning with Python or Cloud Platforms for ML**
 
